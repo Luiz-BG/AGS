@@ -6,12 +6,12 @@ O App Global Solution é um aplicativo inovador, com a proposta de facilitar a v
 
 ## 📲Conteúdo
 
-O MaasApp é um App desenvolvido com Flutter. Esse aplicativo auxilia cidadões em busca de ajuda médica, registra dados médicos individuais de cada pessoa, registra atividades físicas feitas pelo usuário durante o dia inteiro, além de ser personalizado para o usuário. Toda essa infraestrutura leva em conta conceitos de UX e UI para melhorar a experiência do usuário.
+O MaasApp é um App desenvolvido com Flutter. Esse aplicativo auxilia cidadões em busca de ajuda médica, registra dados médicos individuais de cada pessoa, registra atividades físicas feitas pelo usuário durante o dia inteiro, permite o agendamento de consultas em hospitais (baseado no seu histórico, idade, estilo de vida, nutrição, etc). 
 
 ## 💻Funcionalidades do Projeto
 
-- [x] Autenticação 
-   - A autenticação da aplicação é integrada ao
+- [x] Registro
+   - O app contará com um cadastro e login de email e senha para controlar registros de usuários diferentes
 - [x] Agendamento  
    - Através de um calendário inteligente, o usuário do app será capaz de agendar consultas de acordo com seu perfil médico
 - [x] Contagem de passos 
@@ -19,8 +19,7 @@ O MaasApp é um App desenvolvido com Flutter. Esse aplicativo auxilia cidadões 
 
 ## 🚀Tecnologias Utilizadas
 1. Flutter
-2. 
-3. 
+2. PL/SQL
 <p align="right">(<a href="#readme-top">Topo</a>)</p>
 ## 👨🏼‍💻Responsáveis pelo projeto
 1. Cândido Alfredo Carvalho de Lucena Filho **RM: _85414_**
