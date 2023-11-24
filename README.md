@@ -6,7 +6,7 @@ O App Global Solution é um aplicativo inovador, com a proposta de facilitar a v
 
 ## 📲Conteúdo
 
-O MaasApp é um App desenvolvido com Flutter. Esse aplicativo auxilia cidadões em busca de ajuda médica, registra dados médicos individuais de cada pessoa, registra atividades físicas feitas pelo usuário durante o dia inteiro, permite o agendamento de consultas em hospitais (baseado no seu histórico, idade, estilo de vida, nutrição, etc). 
+O UpHealth é um App desenvolvido com Flutter. Esse aplicativo auxilia cidadãos em busca de ajuda médica, registra dados médicos individuais de cada pessoa, registra atividades físicas feitas pelo usuário durante o dia inteiro, permite o agendamento de consultas em hospitais (baseado no seu histórico, idade, estilo de vida, nutrição, etc). 
 
 ## 💻Funcionalidades do Projeto
 
